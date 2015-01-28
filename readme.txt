@@ -1,4 +1,4 @@
-=== Jurassic Plugin ===
+=== Jurassic Login ===
 Contributors: screenres
 Tags: Jurassic Park, Login Error, Admin
 Requires at least: 3.6
