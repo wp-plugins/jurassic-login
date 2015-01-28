@@ -1,6 +1,5 @@
 === Jurassic Plugin ===
 Contributors: screenres
-Donate link: http://www.screenres.co.uk
 Tags: Jurassic Park, Login Error, Admin
 Requires at least: 3.6
 Tested up to: 4.0
