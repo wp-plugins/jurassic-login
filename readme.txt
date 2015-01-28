@@ -13,7 +13,7 @@ Login error message inspired by the 1993 Steven Spielberg film Jurassic Park.
 
 A fan of the 1993 film Jurassic Park?
 Remember the scene where the park security gates fail? Ray Arnold (Samuel L Jackson) is attempting to get it all back online and working only to be greeted with a message from Denis Nerby (Wayne Knight) saying he 'didn't say the magic word'.
-Don't remember it? <a href="https://www.youtube.com/watch?v=RfiQYRn7fBg">Watch it here</a>.
+Don't remember it? <a href="https://www.youtube.com/watch?v=RfiQYRn7fBg" target="_blank">Watch it here</a>.
 
 Well now you can, to a degree, recreate this on your own WP login screen for anyone who enters incorrect login details.
 
